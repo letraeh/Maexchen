@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Wuerfelbecher
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Wuerfelbecher.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=Wuerfelbecher()
+comment2.params=
+comment2.target=void\ schuetteln()
+comment3.params=
+comment3.target=java.lang.String\ aufdecken()
+numComments=4
